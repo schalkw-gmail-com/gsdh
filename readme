@@ -1,0 +1,22 @@
+# To get it working, please follow these steps:
+
+1 - clone from the git repo
+
+2 - composer install
+
+3 - npm install
+
+4 - vendor/bin/phpunit --filter 'Tests\\Feature' (optional, to see the tests)
+
+5 - php artisan serve
+
+The latest database that is included, already has data in it, so it is not required to run the migrations and the seeds, but if you want to you can.
+
+admin@admin.com
+admin
+
+piet@piet.com
+piet
+
+jan@jan.com
+jan
